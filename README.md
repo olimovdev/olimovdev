@@ -1,5 +1,4 @@
 - 👋 Hi, I’m olimovdev
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Kiwi
 - 📫 How to reach me https://t.me/olimovdev
